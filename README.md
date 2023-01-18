@@ -1,0 +1,1 @@
+# easyocr-fastapi-app
